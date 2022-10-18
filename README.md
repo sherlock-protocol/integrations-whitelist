@@ -5,26 +5,26 @@ However, Sherlock will not "double cover" protocols. If Sherlock covers both Pro
 
 ### List of whitelisted integrations
 
-Aave
-Balancer
-Compound
-Curve
-Element
-Euler
-FIAT DAO
-Harpie
-Hook
-Lido
-Liquifi
-Lyra
-Maker
-Merit Circle
-NiftyOptions
-Notional (certain contracts)
-Opyn
-Perennial
-Primitive
-Rocket Pool
-Sentiment
-Tempus
-Uniswap
+- Aave
+- Balancer
+- Compound
+- Curve
+- Element
+- Euler
+- FIAT DAO
+- Harpie
+- Hook
+- Lido
+- Liquifi
+- Lyra
+- Maker
+- Merit Circle
+- NiftyOptions
+- Notional (certain Sherlock-audited contracts)
+- Opyn
+- Perennial
+- Primitive
+- Rocket Pool
+- Sentiment
+- Tempus
+- Uniswap
