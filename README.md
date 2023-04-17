@@ -10,7 +10,6 @@ However, Sherlock will not "double cover" protocols. If Sherlock covers both Pro
 - Compound
 - Curve
 - Element
-- Euler
 - FIAT DAO
 - Harpie
 - Hook
